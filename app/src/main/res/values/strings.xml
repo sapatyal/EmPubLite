@@ -2,5 +2,7 @@
 <resources>
 
     <string name="app_name">EmPubLite</string>
+    <string name="help">help</string>
+    <string name="about">about</string>
 
 </resources>
